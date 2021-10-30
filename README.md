@@ -1,4 +1,4 @@
-# Example of Extract, Transform, Load (ETL
+# Example of Extract, Transform, Load (ETL)
 This is an example of ETL. It is assumed that the data is located in a single source and stored using cloud storage. Data of different formats (csv, json, xml) are combined into a single file. The data undergoes a simple rounding transformation. Finally, the data is written into a csv format and stored in a seperate folder. The entire process can be done by calling a single function in a seperate helper file.
 
 ## Usefulness
